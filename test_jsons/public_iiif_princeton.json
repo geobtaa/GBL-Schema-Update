@@ -1,6 +1,6 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_language_s": "English",
+  "geoblacklight_version": "Aardvark",
+  "dct_language_sm": "English",
   "dc_subject_sm": [
     "New York (State)\u2012Maps",
     "New Jersey\u2012Maps"
@@ -30,7 +30,7 @@
   "dct_temporal_sm": [
     "1778"
   ],
-  "dcat:servesDataset": "02870w62c",
+  "dcat_servesDataset_s": "02870w62c",
   "uuid": "princeton-02870w62c",
-  "locn_Geometry": "Raster"
+  "locn_geometry_s": "Raster"
 }

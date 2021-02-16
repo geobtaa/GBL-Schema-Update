@@ -17,5 +17,5 @@
   "dct_title_s": "ASTER Global Emissivity Dataset 1-kilometer V003 - AG1KM",
   "dct_provenance_s": "U.S. Geological Survey, Department of the Interior",
   "uuid": "aster-global-emissivity-dataset-1-kilometer-v003-ag1kmcad20",
-  "locn_Geometry": "dataset"
+  "locn_geometry_s": "dataset"
 }

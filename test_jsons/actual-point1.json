@@ -1,5 +1,5 @@
 {
-  "dc_language_s": "English",
+  "dct_language_sm": "English",
   "dc_subject_sm": [
     "Airports",
     "Parks",
@@ -8,7 +8,7 @@
   "dct_isPartOf_sm": [
     "Bytes of the Big Apple"
   ],
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "nyu_addl_dspace_s": "35497",
   "dct_creator_sm": [],
   "dct_description_sm": "This point shapefile was created as a guide to New York City\u2019s non-neighborhood place locations that appear in \u201cNew York: A City of Neighborhoods.\u201d These place locations include parks, cemeteries, and airports. Best estimates of label centroids were established at a 1:1,000 scale, but are ideally viewed at a 1:50,000 scale.",
@@ -30,7 +30,7 @@
   "dct_temporal_sm": [
     "2014"
   ],
-  "dcat:servesDataset": "sdr:nyu_2451_34564",
+  "dcat_servesDataset_s": "sdr:nyu_2451_34564",
   "uuid": "nyu-2451-34564",
-  "locn_Geometry": "Point"
+  "locn_geometry_s": "Point"
 }

@@ -19,7 +19,7 @@
   "b1g_geonames_sm": [],
   "b1g_image_ss": "",
   "b1g_collection_sm": "10a-01",
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "dct_creator_sm": [
     "Maryland iMap"
   ],
@@ -42,5 +42,5 @@
     "2016"
   ],
   "uuid": "f406332e63eb4478a9560ad86ae90327_18",
-  "locn_Geometry": "Point"
+  "locn_geometry_s": "Point"
 }

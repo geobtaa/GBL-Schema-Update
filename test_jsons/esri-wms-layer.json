@@ -1,5 +1,5 @@
 {
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "dc_publisher_sm": [
     "Bernardin, Lochmueller and Associates"
   ],
@@ -27,7 +27,7 @@
     "Indiana"
   ],
   "dct_temporal_sm": "1972-1997",
-  "dcat:servesDataset": "0",
+  "dcat_servesDataset_s": "0",
   "uuid": "purdue-urn-f082acb1-b01e-4a08-9126-fd62a23fd9aa",
-  "locn_Geometry": "Mixed"
+  "locn_geometry_s": "Mixed"
 }

@@ -5,7 +5,7 @@
     "Demographic surveys",
     "Population"
   ],
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "dct_creator_sm": [
     "United States. Bureau of the Census"
   ],
@@ -21,7 +21,7 @@
   "dct_spatial_sm": [
     "Massachusetts"
   ],
-  "dcat:servesDataset": "mit:SDE_DATA_US_MA_E25ZCTA5DCT_2000",
+  "dcat_servesDataset_s": "mit:SDE_DATA_US_MA_E25ZCTA5DCT_2000",
   "uuid": "mit-f6rqs4ucovjk2",
-  "locn_Geometry": "Polygon"
+  "locn_geometry_s": "Polygon"
 }

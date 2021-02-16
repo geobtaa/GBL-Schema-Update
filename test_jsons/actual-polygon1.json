@@ -1,6 +1,6 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_language_s": "English",
+  "geoblacklight_version": "Aardvark",
+  "dct_language_sm": "English",
   "dct_description_sm": "This polygon dataset is a 100 foot grid overlay for Cambridge, MA.",
   "dct_format_s": "Shapefile",
   "dct_identifier_sm": "urn:geodata.tufts.edu:Tufts.CambridgeGrid100_04",
@@ -17,7 +17,7 @@
   "dct_temporal_sm": [
     "2004"
   ],
-  "dcat:servesDataset": "sde:GISPORTAL.GISOWNER01.CAMBRIDGEGRID100_04",
+  "dcat_servesDataset_s": "sde:GISPORTAL.GISOWNER01.CAMBRIDGEGRID100_04",
   "uuid": "tufts-cambridgegrid100-04",
-  "locn_Geometry": "Polygon"
+  "locn_geometry_s": "Polygon"
 }

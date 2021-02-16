@@ -1,5 +1,5 @@
 {
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "dc_subject_sm": [
     "Society"
   ],
@@ -19,7 +19,7 @@
   "gbl_mdModified_dt": "2019-12-16T15:57:35Z",
   "dcat_bbox_geom": "ENVELOPE(-179.9,-64.4,71.6,-14.8)",
   "uuid": "99-0001-noProvenance",
-  "locn_Geometry": "Table",
+  "locn_geometry_s": "Table",
   "dct_references_s": "{\"http://schema.org/url\":\"https://www.socialexplorer.com/\"}",
   "dct_spatial_sm": [
     "United States"

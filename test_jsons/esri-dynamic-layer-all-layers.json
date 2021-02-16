@@ -11,7 +11,7 @@
   "dct_isPartOf_sm": [
     "Illinois Geospatial Data Clearinghouse"
   ],
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "dct_creator_sm": [
     "Illinois State Geological Survey"
   ],
@@ -34,5 +34,5 @@
     "1998"
   ],
   "uuid": "90f14ff4-1359-4beb-b931-5cb41d20ab90",
-  "locn_Geometry": "Polygon"
+  "locn_geometry_s": "Polygon"
 }

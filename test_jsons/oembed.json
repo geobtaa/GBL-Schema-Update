@@ -1,11 +1,11 @@
 {
-  "dc_language_s": "Japanese",
+  "dct_language_sm": "Japanese",
   "dc_subject_sm": [
     "Hot springs",
     "Kusatsu-machi",
     "Maps"
   ],
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "dct_description_sm": "Publication date estimate from dealer description.",
   "dct_format_s": "JPEG",
   "dct_identifier_sm": "http://purl.stanford.edu/dc482zx1528",
@@ -20,5 +20,5 @@
     "Japan"
   ],
   "uuid": "stanford-dc482zx1528",
-  "locn_Geometry": "Image"
+  "locn_geometry_s": "Image"
 }

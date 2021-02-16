@@ -3,8 +3,8 @@
     "Aerial photographs",
     "Index maps"
   ],
-  "dc_language_s": "English",
-  "geoblacklight_version": "1.0",
+  "dct_language_sm": "English",
+  "geoblacklight_version": "Aardvark",
   "dct_creator_sm": [
     "Jane Doe"
   ],
@@ -23,5 +23,5 @@
     "New York"
   ],
   "uuid": "cornell-ny-aerial-photos-1960s",
-  "locn_Geometry": "Point"
+  "locn_geometry_s": "Point"
 }

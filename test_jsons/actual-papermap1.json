@@ -1,6 +1,6 @@
 {
-  "geoblacklight_version": "1.0",
-  "dc_language_s": "English",
+  "geoblacklight_version": "Aardvark",
+  "dct_language_sm": "English",
   "dct_description_sm": "Panel title. Depths shown by isolines. \"Geological map [copyright] NERC 1996.\" Also available on flat sheet. \"Sheet 1\"--on panel. Includes text, notes, organizations' logos, and ancillary map of \"Orogenic terranes of Britain, Ireland and surrounding seas.\"",
   "dct_format_s": "Paper",
   "dct_identifier_sm": "urn:arrowsmith.mit.edu:MIT.001145244",
@@ -17,7 +17,7 @@
   "dct_temporal_sm": [
     "1996"
   ],
-  "dcat:servesDataset": "MIT:001145244",
+  "dcat_servesDataset_s": "MIT:001145244",
   "uuid": "mit-001145244",
-  "locn_Geometry": "Paper Map"
+  "locn_geometry_s": "Paper Map"
 }

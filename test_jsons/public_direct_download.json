@@ -1,11 +1,11 @@
 {
-  "dc_language_s": "English",
+  "dct_language_sm": "English",
   "dc_subject_sm": [
     "Poverty",
     "Statistics"
   ],
   "stanford_rights_metadata_s": "<?xml version=\"1.0\"?>\n<rightsMetadata>\n  <access type=\"discover\">\n    <machine>\n      <world/>\n    </machine>\n  </access>\n  <access type=\"read\">\n    <machine>\n      <world/>\n    </machine>\n  </access>\n  <use>\n    <human type=\"useAndReproduction\">This item is in the public domain.  There are no restrictions on use.</human>\n    <human type=\"creativeCommons\"/>\n    <machine type=\"creativeCommons\"/>\n  </use>\n  <copyright>\n    <human>This work is in the Public Domain, meaning that it is not subject to copyright.</human>\n  </copyright>\n</rightsMetadata>\n",
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "dct_creator_sm": [
     "Uganda Bureau of Statistics"
   ],
@@ -28,7 +28,7 @@
   "dct_temporal_sm": [
     "2005"
   ],
-  "dcat:servesDataset": "druid:cz128vq0535",
+  "dcat_servesDataset_s": "druid:cz128vq0535",
   "uuid": "stanford-cz128vq0535",
-  "locn_Geometry": "Polygon"
+  "locn_geometry_s": "Polygon"
 }

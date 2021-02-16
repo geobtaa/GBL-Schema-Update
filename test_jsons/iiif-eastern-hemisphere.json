@@ -5,7 +5,7 @@
   "dct_isPartOf_sm": [
     "John R. Borchert Map Library"
   ],
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "dct_creator_sm": [
     "Bowen, Emanuel (-1767)"
   ],
@@ -26,5 +26,5 @@
     "1750"
   ],
   "uuid": "57f0f116-b64e-4773-8684-96ba09afb549",
-  "locn_Geometry": "Image"
+  "locn_geometry_s": "Image"
 }

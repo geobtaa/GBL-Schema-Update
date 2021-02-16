@@ -13,7 +13,7 @@
   "dct_isPartOf_sm": [
     "IndianaMAP"
   ],
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "dct_creator_sm": [
     "Indiana Geological Survey"
   ],
@@ -36,5 +36,5 @@
     "2003"
   ],
   "uuid": "4669301e-b4b2-4c8b-bf40-01b968a2865b",
-  "locn_Geometry": "Point"
+  "locn_geometry_s": "Point"
 }

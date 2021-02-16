@@ -11,7 +11,7 @@
   "dct_isPartOf_sm": [
     "Minnesota Geospatial Commons"
   ],
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "dct_creator_sm": [
     "U.S. Geological Survey and Minnesota DNR"
   ],
@@ -34,5 +34,5 @@
     "1998"
   ],
   "uuid": "e9c71086-6b25-4950-8e1c-84c2794e3382",
-  "locn_Geometry": "Raster"
+  "locn_geometry_s": "Raster"
 }

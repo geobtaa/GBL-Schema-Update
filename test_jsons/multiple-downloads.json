@@ -1,5 +1,5 @@
 {
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "dc_subject_sm": [
     "New York State Agricultural District boundaries",
     "Agriculture and Markets",
@@ -30,7 +30,7 @@
   "dct_temporal_sm": [
     "2011"
   ],
-  "dcat:servesDataset": "cugir007950",
+  "dcat_servesDataset_s": "cugir007950",
   "uuid": "cugir-007950",
-  "locn_Geometry": "Polygon"
+  "locn_geometry_s": "Polygon"
 }

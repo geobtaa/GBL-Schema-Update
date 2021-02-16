@@ -12,7 +12,7 @@
   "dct_isPartOf_sm": [
     "Purdue Georeferenced Imagery"
   ],
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "dct_creator_sm": [],
   "dct_description_sm": "The maps represented here are on tiff files owned by EAS library. The topos were scanned in color and are up to 550MB each. These images can be viewed and performed in the using either ArcGIS Desktop or QGIS (user choice), referencing against a number of known mapsets like the 2005 Indiana Orthophoto setand USGS DRGs. The geographic coordinate system reference of the maps included are applied in GCS_WGS_1984.",
   "dct_format_s": "GeoTIFF",
@@ -36,5 +36,5 @@
     "1929"
   ],
   "uuid": "32653ed6-8d83-4692-8a06-bf13ffe2c018",
-  "locn_Geometry": "Image"
+  "locn_geometry_s": "Image"
 }

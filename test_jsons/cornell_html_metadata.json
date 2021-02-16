@@ -1,5 +1,5 @@
 {
-  "geoblacklight_version": "1.0",
+  "geoblacklight_version": "Aardvark",
   "cugir_addl_downloads_s": "{}",
   "cugir_filesize_s": "0.07 MB",
   "dc_publisher_sm": [
@@ -36,7 +36,7 @@
   "dct_temporal_sm": [
     "-Pres"
   ],
-  "dcat:servesDataset": "cugir007741",
+  "dcat_servesDataset_s": "cugir007741",
   "uuid": "cugir-007741",
-  "locn_Geometry": "Point"
+  "locn_geometry_s": "Point"
 }
