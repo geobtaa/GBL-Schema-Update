@@ -20,5 +20,5 @@ dct_spatial_sm,dct_spatial_sm
 dc_subject_sm,dct_subject_sm
 dct_temporal_sm,dct_temporal_sm
 layer_id_s,dcat_servesDataset_s
-layer_slug_s,uuid
+layer_slug_s,id
 layer_geom_type_s,locn_Geometry_s

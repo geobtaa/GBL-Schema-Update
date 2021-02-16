@@ -24,7 +24,7 @@ dct_temporal_sm,dct_temporal_sm
 layer_geom_type_s,locn_Geometry_s
 layer_id_s,dcat_servesDataset_s
 layer_modified_dt,gbl_mdModified_dt
-layer_slug_s,uuid
+layer_slug_s,id
 solr_geom,dcat_bbox_geom
 solr_year_i,gbl_indexYear_im
 suppressed_b,gbl_suppressed_b
