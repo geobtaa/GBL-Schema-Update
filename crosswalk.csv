@@ -17,7 +17,7 @@ dct_issued_s,dct_issued_s
 dct_provenance_s,dct_provenance_s
 dct_references_s,dct_references_s
 dct_spatial_sm,dct_spatial_sm
-dct_subject_sm,dct_subject_sm
+dc_subject_sm,dct_subject_sm
 dct_temporal_sm,dct_temporal_sm
 layer_id_s,dcat_servesDataset_s
 layer_slug_s,uuid
