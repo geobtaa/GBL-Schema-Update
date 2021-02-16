@@ -26,8 +26,9 @@ def schema_update(filepath):
             if old_schema in data:
                 data[new_schema] = data.pop(old_schema)
 
-    # Overwrite JSON with the modified schema
-    with open(filepath, 'w') as fw:
+    # Write updated JSON to a new folder
+    filepath_updated = 'solr_documents_updated/' + file
+    with open(filepath_updated, 'w') as fw:
         j = json.dumps(data, indent=2)
         fw.write(j)
 
@@ -36,5 +37,5 @@ def schema_update(filepath):
 files = [x for x in os.listdir('test_jsons') if x.endswith('.json')]
 for file in files:
     print(f'Executing {file} ...')
-    filepath = 'solr_documents/' + file
+    filepath = 'solr_documents_1.0/' + file
     schema_update(filepath)
