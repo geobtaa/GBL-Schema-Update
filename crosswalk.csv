@@ -3,7 +3,7 @@ dc_creator_sm,dct_creator_sm
 dc_description_s,dct_description_sm
 dc_format_s,dct_format_s
 dc_identifier_s,dct_identifier_sm
-dc_language_sm,dct_language_sm
+dc_language_s,dct_language_sm
 dc_publisher_s,dct_publisher_sm
 dc_rights_s,dct_accessRights_s
 dc_source_sm,dct_source_sm
@@ -19,6 +19,6 @@ dct_references_s,dct_references_s
 dct_spatial_sm,dct_spatial_sm
 dct_subject_sm,dct_subject_sm
 dct_temporal_sm,dct_temporal_sm
-layer_id_s,dcat:servesDataset
+layer_id_s,dcat_servesDataset_s
 layer_slug_s,uuid
-layer_geom_type_s,locn_Geometry
+layer_geom_type_s,locn_Geometry_s
