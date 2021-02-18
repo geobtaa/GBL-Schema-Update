@@ -34,7 +34,7 @@ def schema_update(filepath):
 
 # Collect all JSON files in a list
 # Iterate the list to update metadata schema
-files = [x for x in os.listdir('test_jsons') if x.endswith('.json')]
+files = [x for x in os.listdir('solr_documents_1.0') if x.endswith('.json')]
 for file in files:
     print(f'Executing {file} ...')
     filepath = 'solr_documents_1.0/' + file
