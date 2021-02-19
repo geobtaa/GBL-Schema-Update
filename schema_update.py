@@ -31,9 +31,9 @@ def schema_update(filepath):
             if old_schema in data:
                 data[new_schema] = data.pop(old_schema)
 
-        # check for multi-val field
-        # if so, convert its value to an array
-        string2array(data)
+    # check for multi-val field
+    # if so, convert its value to an array
+    data = string2array(data)
 
     # Write updated JSON to a new folder
     filepath_updated = dir_new_schema + file
@@ -48,7 +48,8 @@ def string2array(dict):
         if suffix == 'sm' or suffix == 'im':
             val = dict[key]
             if type(val) != list:
-                val = [val]
+                dict[key] = [val]
+    return dict
 
 
 # Collect all JSON files in a list
@@ -56,5 +57,6 @@ def string2array(dict):
 files = [x for x in os.listdir(dir_old_schema) if x.endswith('.json')]
 for file in files:
     print(f'Executing {file} ...')
-    filepath = os.path.realpath(file))  
+    filepath = dir_old_schema + file
     schema_update(filepath)
+
