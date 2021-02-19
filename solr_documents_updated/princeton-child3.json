@@ -5,11 +5,19 @@
   "dct_creator_sm": [
     "Sanborn Map Company"
   ],
-  "dct_description_sm": "Title taken from sheet 1 of 1927 map. \"Feb. 1885.\" Includes location map and key. Oriented with the north to the upper left.",
+  "dct_description_sm": [
+    "Title taken from sheet 1 of 1927 map. \"Feb. 1885.\" Includes location map and key. Oriented with the north to the upper left."
+  ],
   "dct_format_s": "TIFF",
-  "dct_identifier_sm": "ark:/88435/n009w382v",
-  "dct_language_sm": "eng",
-  "dct_publisher_sm": "New York : Sanborn Map & Publishing Co., Limited, 1885.",
+  "dct_identifier_sm": [
+    "ark:/88435/n009w382v"
+  ],
+  "dct_language_sm": [
+    "eng"
+  ],
+  "dct_publisher_sm": [
+    "New York : Sanborn Map & Publishing Co., Limited, 1885."
+  ],
   "dct_accessRights_s": "Public",
   "dct_source_sm": [
     "princeton-1r66j405w"
@@ -25,5 +33,6 @@
     "Princeton (N.J.)-Maps"
   ],
   "dcat_servesDataset_s": "public-figgy:p-b6ba3091-fcf4-4d2d-9d6a-df7df5c8c598",
-  "locn_Geometry_s": "Image"
+  "id": "princeton-n009w382v-fake1",
+  "locn_geometry_s": "Image"
 }

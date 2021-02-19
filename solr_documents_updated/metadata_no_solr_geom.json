@@ -6,8 +6,12 @@
   "dc_type_sm": [
     "Collection"
   ],
-  "dct_description_sm": "A collection of maps covering Asia held by the University of Minnesota's Ames Library of South Asia.",
-  "dct_identifier_sm": "05d-p16022coll246-noGeo",
+  "dct_description_sm": [
+    "A collection of maps covering Asia held by the University of Minnesota's Ames Library of South Asia."
+  ],
+  "dct_identifier_sm": [
+    "05d-p16022coll246-noGeo"
+  ],
   "dct_accessRights_s": "Public",
   "dct_title_s": "Ames Library of South Asia Maps",
   "gbl_mdModified_dt": "2020-01-23T14:01:19Z",
@@ -18,6 +22,6 @@
     "India",
     "Afghanistan"
   ],
-  "uuid": "05d-p16022coll246-noGeo",
-  "locn_Geometry_s": "Table"
+  "id": "05d-p16022coll246-noGeo",
+  "locn_geometry_s": "Table"
 }

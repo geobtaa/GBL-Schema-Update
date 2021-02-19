@@ -12,9 +12,13 @@
   "dct_creator_sm": [
     "New York State Department of Energy Conservation Bureau of Air Quality Surveillance"
   ],
-  "dct_description_sm": "  This dataset shows the location of each ambient air quality monitoring station currently being operated by the Bureau of Air Quality Surveillance (BAQS), Division of Air Resources, New York State Department of Environmental Conservation.",
+  "dct_description_sm": [
+    "  This dataset shows the location of each ambient air quality monitoring station currently being operated by the Bureau of Air Quality Surveillance (BAQS), Division of Air Resources, New York State Department of Environmental Conservation."
+  ],
   "dct_format_s": "Shapefile",
-  "dct_identifier_sm": "https://cugir.library.cornell.edu/catalog/cugir-007741",
+  "dct_identifier_sm": [
+    "https://cugir.library.cornell.edu/catalog/cugir-007741"
+  ],
   "dct_accessRights_s": "Public",
   "dct_title_s": "Air Monitoring Stations, Adirondack Park, 2000",
   "dct_type_s": "Dataset",
@@ -37,6 +41,6 @@
     "-Pres"
   ],
   "dcat_servesDataset_s": "cugir007741",
-  "uuid": "cugir-007741",
-  "locn_Geometry_s": "Point"
+  "id": "cugir-007741",
+  "locn_geometry_s": "Point"
 }

@@ -4,7 +4,9 @@
     "United States. Bureau of the Census"
   ],
   "dct_format_s": "Shapefile",
-  "dct_publisher_sm": "United States. Bureau of the Census",
+  "dct_publisher_sm": [
+    "United States. Bureau of the Census"
+  ],
   "dct_accessRights_s": "Public",
   "dct_title_s": "Massachusetts (ZCTA - 5 digit zip code tabulation area, 2000)",
   "dct_type_s": "Dataset",
@@ -22,6 +24,6 @@
     "Population"
   ],
   "dcat_servesDataset_s": "mit:SDE_DATA_US_MA_E25ZCTA5DCT_2000",
-  "uuid": "mit-f6rqs4ucovjk2",
-  "locn_Geometry_s": "Polygon"
+  "id": "mit-f6rqs4ucovjk2",
+  "locn_geometry_s": "Polygon"
 }

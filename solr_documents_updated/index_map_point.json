@@ -3,11 +3,19 @@
   "dct_creator_sm": [
     "Jane Doe"
   ],
-  "dct_description_sm": "This is a description",
+  "dct_description_sm": [
+    "This is a description"
+  ],
   "dct_format_s": "GeoJSON",
-  "dct_identifier_sm": "cornell-ny-aerial-photos-1960s",
-  "dct_language_sm": "English",
-  "dct_publisher_sm": "The Publisher",
+  "dct_identifier_sm": [
+    "cornell-ny-aerial-photos-1960s"
+  ],
+  "dct_language_sm": [
+    "English"
+  ],
+  "dct_publisher_sm": [
+    "The Publisher"
+  ],
   "dct_accessRights_s": "Public",
   "dct_title_s": "New York Aerial Photos (1960s)",
   "dct_type_s": "Dataset",
@@ -22,6 +30,6 @@
     "Aerial photographs",
     "Index maps"
   ],
-  "uuid": "cornell-ny-aerial-photos-1960s",
-  "locn_Geometry_s": "Point"
+  "id": "cornell-ny-aerial-photos-1960s",
+  "locn_geometry_s": "Point"
 }

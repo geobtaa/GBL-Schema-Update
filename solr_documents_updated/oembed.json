@@ -1,10 +1,18 @@
 {
   "geoblacklight_version": "1.0",
-  "dct_description_sm": "Publication date estimate from dealer description.",
+  "dct_description_sm": [
+    "Publication date estimate from dealer description."
+  ],
   "dct_format_s": "JPEG",
-  "dct_identifier_sm": "http://purl.stanford.edu/dc482zx1528",
-  "dct_language_sm": "Japanese",
-  "dct_publisher_sm": "Kiky\u014dya Genkichi han",
+  "dct_identifier_sm": [
+    "http://purl.stanford.edu/dc482zx1528"
+  ],
+  "dct_language_sm": [
+    "Japanese"
+  ],
+  "dct_publisher_sm": [
+    "Kiky\u014dya Genkichi han"
+  ],
   "dct_accessRights_s": "Public",
   "dct_title_s": "J\u014dsh\u016b Kusatsu Onsenzu",
   "dct_type_s": "Image",
@@ -19,6 +27,6 @@
     "Kusatsu-machi",
     "Maps"
   ],
-  "uuid": "stanford-dc482zx1528",
-  "locn_Geometry_s": "Image"
+  "id": "stanford-dc482zx1528",
+  "locn_geometry_s": "Image"
 }
