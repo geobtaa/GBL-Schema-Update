@@ -2,10 +2,15 @@ import json
 import csv
 import os
 
+# Manual changes before run
+dir_crosswalk = 'crosswalk.csv'
+dir_old_schema = 'solr_documents_1.0/'
+dir_new_schema = 'solr_documents_updated/'
+
 # Load the crosswalk.csv and make it a ditionary
 # key-value pairs in the dictionary refers to the old-new schemas
 crosswalk = {}
-with open('crosswalk.csv') as f:
+with open(dir_crosswalk) as f:
     reader = csv.reader(f)
     fields = next(reader)
     for record in reader:
@@ -26,16 +31,30 @@ def schema_update(filepath):
             if old_schema in data:
                 data[new_schema] = data.pop(old_schema)
 
+        # check for multi-val field
+        # if so, convert its value to an array
+        string2array(data)
+
     # Write updated JSON to a new folder
-    filepath_updated = 'solr_documents_updated/' + file
+    filepath_updated = dir_new_schema + file
     with open(filepath_updated, 'w') as fw:
         j = json.dumps(data, indent=2)
         fw.write(j)
 
+# Function to convert fields that ends with '_sm' to an array
+def string2array(dict):
+    for key in dict.keys():
+        suffix = key.split('_')[-1]
+        if suffix == 'sm' or suffix == 'im':
+            val = dict[key]
+            if type(val) != list:
+                val = [val]
+
+
 # Collect all JSON files in a list
 # Iterate the list to update metadata schema
-files = [x for x in os.listdir('solr_documents_1.0') if x.endswith('.json')]
+files = [x for x in os.listdir(dir_old_schema) if x.endswith('.json')]
 for file in files:
     print(f'Executing {file} ...')
-    filepath = 'solr_documents_1.0/' + file
+    filepath = os.path.realpath(file))  
     schema_update(filepath)
