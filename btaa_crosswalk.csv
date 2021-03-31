@@ -42,8 +42,8 @@ aardvark-40,Georeferenced,-,gbl_georeferenced_b,TRUE|FALSE,new
 ,,dc_type_sm,-,,deprecated
 b1g-1,Image,b1g_image_ss,b1g_image_ss,,no
 b1g-2,GeoNames,b1g_geonames_sm,b1g_geonames_sm,,no
-b1g-3,Accrual Method,dct_accrualMethod_s,b1g-dct_accrualMethod_s,,yes
-b1g-4,Accrual Periodicity,dct_accrualPeriodicity_s,b1g-dct_accrualPeriodicity_s,,yes
+b1g-3,Accrual Method,dct_accrualMethod_s,b1g_dct_accrualMethod_s,,yes
+b1g-4,Accrual Periodicity,dct_accrualPeriodicity_s,b1g_dct_accrualPeriodicity_s,,yes
 b1g-5,Date Accessioned,b1g_dateAccessioned_s,b1g_dateAccessioned_sm,,yes
 b1g-6,Date Retired,b1g_dateRetired_s,b1g_dateRetired_s,,no
 b1g-7,Child Record,b1g_child_record_b,b1g_child_record_b,TRUE|FALSE,no
