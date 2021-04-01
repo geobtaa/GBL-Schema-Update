@@ -1,50 +1,31 @@
-internal label,Label,BTAA Profile v 3.3,GBL Aardvark,Controlled Values (plus optional others),crosswalk change?
-aardvark-1,Title,dc_title_s,dct_title_s,,yes
-aardvark-2,Alternative Title,dct_alternativeTitle_sm,dct_alternative_sm,,yes
-aardvark-3,Description,dc_description_s,dct_description_sm,,yes
-aardvark-4,Language,dc_language_sm,dct_language_sm,,yes
-aardvark-5,Creator,dc_creator_sm,dct_creator_sm,,yes
-aardvark-6,Publisher,dc_publisher_sm,dct_publisher_sm,,yes
-aardvark-7,Provider,dct_provenance_s,schema_provider_s,Indiana University|University of Illinois Urbana-Champaign|University of Iowa|University of Maryland|University of Minnesota|Michigan State University|University of Michigan|Pennsylvania State University|Purdue University|University of Wisconsin - Madison|The Ohio State University|University of Chicago|University of Nebraska-Lincoln,yes
-aardvark-8,Resource Class,b1g_genre_sm,gbl_resourceClass_sm,Maps|Datasets|Imagery|Collections|Websites|Web services,yes
-aardvark-9,Resource Type,layer_geom_type_s,gbl_resourceType_sm,,yes
-aardvark-10,Subject,dc_subject_sm,dct_subject_sm,,yes
-aardvark-11,ISO Topic Category,-,dcat_theme_sm,"Farming|Biota|Boundaries|Climatology, Meteorology and Atmosphere|Economy|Elevation|Environment|Geoscientific Information|Health|Imagery and Base Maps|Intelligence and Military|Inland Waters|Location|Oceans|Planning and Cadastral|Society|Structure|Transportation|Utilities and Communications",new
-aardvark-12,Keyword,b1g_keyword_sm,dcat_keyword_sm,,yes
-aardvark-13,Temporal Coverage,dct_temporal_sm,dct_temporal_sm,,no
-aardvark-14,Date Issued,dct_issued_s,dct_issued_s,,no
-aardvark-15,Index Year,solr_year_i,gbl_indexYear_im,,yes
-aardvark-16,Date Range,b1g_date_range_drsim,gbl_dateRange_drsim,,yes
-aardvark-17,Spatial Coverage,dct_spatial_sm,dct_spatial_sm,,no
-aardvark-18,Spatial Extent,solr_geom,locn_geometry,,yes
-aardvark-19,Centroid,b1g_centroid_ss,dcat_centroid_ss,,yes
-aardvark-20,Relation,-,dct_relation_sm,,new
-aardvark-21,Member Of,dct_isPartOf_sm,pcdm_memberOf_sm,,yes
-aardvark-22,Is Part Of,-,dct_isPartOf_sm,,new use
-aardvark-23,Source,dc_source_sm,dct_source_sm,,yes
-aardvark-24,Version,-,dct_isVersionOf_sm,,new
-aardvark-25,Replaces,-,dct_replaces_sm,,new
-aardvark-26,Is Replaced By,-,dct_isReplacedBy_sm,,new
-aardvark-27,Rights,dc_rights_s,dct_accessRights_s,Public|Restricted,yes
-aardvark-28,Rights Holder,-,dct_rightsHolder_sm,,new
-aardvark-29,License,-,dct_license_sm,,new
-aardvark-30,Access Rights,dct_accessRights_sm,dct_rights_sm,,yes
-aardvark-31,Format,dc_format_s,dct_format_s,,yes
-aardvark-32,Size,-,gbl_fileSize_s,,new
-aardvark-33,WxS Identifier,layer_id_s,gbl_wxsIdentifier_s,,yes
-aardvark-34,References,dct_references_s,dct_references_s,,no
-aardvark-35,ID,layer_slug_s,id,,yes
-aardvark-36,Identifier,dc_identifier_s,dct_identifier_sm,,yes
-aardvark-37,Modified,layer_modified_dt,gbl_mdModified_dt,,yes
-aardvark-38,Metadata Version,geoblacklight_version,gbl_mdVersion_s,,yes
-aardvark-39,Suppressed,suppressed_b,gbl_suppressed_b,TRUE|FALSE,yes
-aardvark-40,Georeferenced,-,gbl_georeferenced_b,TRUE|FALSE,new
-,,dc_type_sm,-,,deprecated
-b1g-1,Image,b1g_image_ss,b1g_image_ss,,no
-b1g-2,GeoNames,b1g_geonames_sm,b1g_geonames_sm,,no
-b1g-3,Accrual Method,dct_accrualMethod_s,b1g_dct_accrualMethod_s,,yes
-b1g-4,Accrual Periodicity,dct_accrualPeriodicity_s,b1g_dct_accrualPeriodicity_s,,yes
-b1g-5,Date Accessioned,b1g_dateAccessioned_s,b1g_dateAccessioned_sm,,yes
-b1g-6,Date Retired,b1g_dateRetired_s,b1g_dateRetired_s,,no
-b1g-7,Child Record,b1g_child_record_b,b1g_child_record_b,TRUE|FALSE,no
-b1g-8,Status,b1g_status_s,b1g_status_s,,deprecate?
+GBL 1.0,GBL Aardvark
+dc_title_s,dct_title_s
+dct_alternativeTitle_sm,dct_alternative_sm
+dc_description_s,dct_description_sm
+dc_language_sm,dct_language_sm
+dc_creator_sm,dct_creator_sm
+dc_publisher_sm,dct_publisher_sm
+dct_provenance_s,schema_provider_s
+b1g_genre_sm,gbl_resourceClass_sm
+layer_geom_type_s,gbl_resourceType_sm
+dc_subject_sm,dct_subject_sm
+b1g_keyword_sm,dcat_keyword_sm
+dct_temporal_sm,dct_temporal_sm
+dct_issued_s,dct_issued_s
+solr_year_i,gbl_indexYear_im
+b1g_date_range_drsim,gbl_dateRange_drsim
+dct_spatial_sm,dct_spatial_sm
+solr_geom,locn_geometry
+b1g_centroid_ss,dcat_centroid_ss
+dct_isPartOf_sm,pcdm_memberOf_sm
+dc_source_sm,dct_source_sm
+dc_rights_s,dct_accessRights_s
+dct_accessRights_sm,dct_rights_sm
+dc_format_s,dct_format_s
+layer_id_s,gbl_wxsIdentifier_s
+dct_references_s,dct_references_s
+layer_slug_s,id
+dc_identifier_s,dct_identifier_sm
+layer_modified_dt,gbl_mdModified_dt
+geoblacklight_version,gbl_mdVersion_s
+suppressed_b,gbl_suppressed_b
