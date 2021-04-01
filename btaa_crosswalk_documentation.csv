@@ -48,6 +48,6 @@ b1g-5,Date Accessioned,b1g_dateAccessioned_s,b1g_dateAccessioned_sm,,yes
 b1g-6,Date Retired,b1g_dateRetired_s,b1g_dateRetired_s,,no
 b1g-7,Child Record,b1g_child_record_b,b1g_child_record_b,TRUE|FALSE,no
 b1g-8,Status,b1g_status_s,b1g_status_s,,deprecate?
-b1g-9,Mediator,b1g_dct_mediator_sm
-b1g-10,Access,b1g_access_s
-b1g-11,Code,b1g_code_s
+b1g-9,Mediator,b1g_dct_mediator_sm,,no
+b1g-10,Access,b1g_access_s,,no
+b1g-11,Code,b1g_code_s,,no
