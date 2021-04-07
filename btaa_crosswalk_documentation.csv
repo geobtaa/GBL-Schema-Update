@@ -1,4 +1,4 @@
-GEOMG Grouping,GEOMG Category,Label,BTAA Profile v 3.3,GBL Aardvark,Controlled Values (plus optional others),crosswalk change?,internal label
+GEOMG Grouping,GEOMG Category,Label,BTAA Profile v 3.3, Aardvark,Controlled Values (plus optional others),crosswalk change?,internal label
 Identification,Descriptive,Title,dc_title_s,dct_title_s,,yes,aardvark-1
 Identification,Descriptive,Alternative Title,dct_alternativeTitle_sm,dct_alternative_sm,,yes,aardvark-2
 Identification,Descriptive,Description,dc_description_s,dct_description_sm,,yes,aardvark-3
@@ -26,7 +26,7 @@ Identification,Relations,Version,-,dct_isVersionOf_sm,,new,aardvark-24
 Identification,Relations,Replaces,-,dct_replaces_sm,,new,aardvark-25
 Identification,Relations,Is Replaced By,-,dct_isReplacedBy_sm,,new,aardvark-26
 Distribution,Object,Format,dc_format_s,dct_format_s,,yes,aardvark-31
-Distribution,Object,Size,-,gbl_fileSize_s,,new,aardvark-32
+Distribution,Object,File Size,-,gbl_fileSize_s,,new,aardvark-32
 Distribution,Object,WxS Identifier,layer_id_s,gbl_wxsIdentifier_s,,yes,aardvark-33
 Distribution,Object,Georeferenced,-,gbl_georeferenced_b,TRUE|FALSE,new,aardvark-40
 Distribution,Links,References,dct_references_s,dct_references_s,,no,aardvark-34
@@ -34,10 +34,10 @@ Distribution,Links,Image,b1g_image_ss,b1g_image_ss,,no,b1g-1
 Administrative,Codes,ID,layer_slug_s,id,,yes,aardvark-35
 Administrative,Codes,Identifier,dc_identifier_s,dct_identifier_sm,,yes,aardvark-36
 Administrative,Codes,Code,b1g_code_s,b1g_code_s,,,b1g-11
-Administrative,Rights,Rights,dc_rights_s,dct_accessRights_s,Public|Restricted,yes,aardvark-27
+Administrative,Rights,Rights,dct_accessRights_sm,dct_rights_sm,Public|Restricted,yes,aardvark-27
 Administrative,Rights,Rights Holder,-,dct_rightsHolder_sm,,new,aardvark-28
 Administrative,Rights,License,-,dct_license_sm,,new,aardvark-29
-Administrative,Rights,Access Rights,dct_accessRights_sm,dct_rights_sm,,yes,aardvark-30
+Administrative,Rights,Access Rights,dc_rights_s,dct_accessRights_sm,,yes,aardvark-30
 Administrative,Life Cycle,Accrual Method,dct_accrualMethod_s,b1g-dct_accrualMethod_s,,yes,b1g-3
 Administrative,Life Cycle,Accrual Periodicity,dct_accrualPeriodicity_s,b1g-dct_accrualPeriodicity_s,,yes,b1g-4
 Administrative,Life Cycle,Date Accessioned,b1g_dateAccessioned_s,b1g_dateAccessioned_sm,,yes,b1g-5
