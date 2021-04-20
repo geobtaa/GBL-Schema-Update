@@ -16,7 +16,7 @@
     "IndianaMAP"
   ],
   "layer_geom_type_s": "Point",
-  "solr_year_i": 2003,
+  "gbl_indexYear_im": 2003,
   "dct_title_s": "Abandoned Quarries: Indiana",
   "dct_description_sm": [
     "QUARRIES_ABANDONED_IN was derived from a comma-delimited text file named \"QUALOC.TXT\" contained on the following CD-ROM publication: Hasenmueller, W.A., and Ault, C.H., 2001, Abandoned Industrial Minerals Quarries in Indiana, 2nd Edition, Digital Version, Computer Database 2, Indiana Geological Survey. The field named \"QUANUM\" can be used to link this data to the following tables available in the publication cited above: bibliography (QUAREF.TXT), history of operation (QUAHIS.TXT), and stratigraphy (QUASTR.TXT). It contains all abandoned quarry locations within QUALOC.TXT that have locational information that is adequate to determine UTM coordinate values."

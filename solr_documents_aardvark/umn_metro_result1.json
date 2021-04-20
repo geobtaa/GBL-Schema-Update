@@ -16,7 +16,7 @@
     "Minnesota Geospatial Commons"
   ],
   "layer_geom_type_s": "Polygon",
-  "solr_year_i": 2014,
+  "gbl_indexYear_im": 2014,
   "dct_title_s": "2030 Regional Development Framework Planning Areas: Metro Twin Cities, Minnesota, 2011",
   "dct_description_sm": [
     "The 2030 Regional Development Framework Planning Areas - 2011 updates the 2030 Regional Development Framework Planning Areas initially adopted on January 14, 2004 and ammended in 2006. This dataset reflect the agreed upon planning areas between a community and the Metropolitan Council and defined in the communities' 2030 Comprehensive Plan Update and is intended to supplement the 2030 Regional Development Framework - the planning guide for the 7-county Twin Cities metropolitan area of Minneapolis and Saint Paul, Minnesota.   Planning area definitions and strategies for the planning areas are available in the 2030 Regional Development Framework document at http://www.metrocouncil.org/Planning/Planning/2030-Regional-Development-Framework.aspx  (See Chapter 3). For questions about how decisions were made regarding individual communities' geographic planning areas, please contact the Metropolitan Council Regional Framework Development staff, Dan Marckel, 651-602-1548.  See Currentness Reference and Lineage in Data Quality Section of this metadata for more information."

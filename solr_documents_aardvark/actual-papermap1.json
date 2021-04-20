@@ -1,7 +1,7 @@
 {
   "dc_type_s": "Dataset",
   "layer_geom_type_s": "Paper Map",
-  "solr_year_i": 1996,
+  "gbl_indexYear_im": 1996,
   "dct_title_s": "1:1 500 000 series [cartographic material] : tectonic map of Britain, Ireland and adjacent areas / British Geological Survey ; Geological Survey of Ireland ; Geological Survey of Northern Ireland.",
   "dct_description_sm": [
     "Panel title. Depths shown by isolines. \"Geological map [copyright] NERC 1996.\" Also available on flat sheet. \"Sheet 1\"--on panel. Includes text, notes, organizations' logos, and ancillary map of \"Orogenic terranes of Britain, Ireland and surrounding seas.\""

@@ -1,7 +1,7 @@
 {
   "dc_type_s": "Dataset",
   "layer_geom_type_s": "Raster",
-  "solr_year_i": 2010,
+  "gbl_indexYear_im": 2010,
   "dct_title_s": "Soil Survey Geographic (SSURGO)",
   "dct_description_sm": [
     "This map shows the Soil Survey Geographic (SSURGO) by the United States Department of Agriculture's Natural Resources Conservation Service. It also shows data that was developed by the National Cooperative Soil Survey and supersedes the State Soil Geographic (STATSGO) dataset published in 1994. SSURGO digitizing duplicates the original soil survey maps. This level of mapping is designed for use by landowners, townships, and county natural resource planning and management. The user should be knowledgeable of soils data and their characteristics. The smallest scale map shows the Global Soil Regions map by the United States Department of Agriculture\u2019s Natural Resources Conservation Service."

@@ -7,7 +7,7 @@
   "dc_publisher_sm": [
     "U.S. Geological Survey"
   ],
-  "solr_year_i": 1995,
+  "gbl_indexYear_im": 1995,
   "dct_title_s": "Index of Digital Elevation Models (DEM), New York",
   "dct_description_sm": [
     "This is an index of all the available DEM (digital elevation model) tiles within New York state. Download links are provided for each tile. Each DEM raster has a pixel resolution of approximately 10 meters. Elevation values were derived from USGS contour lines mapped at a scale of 1:24,000.  DEMs can be used as source data for digital orthophotos and as layers in geographic information systems for earth science analysis. DEMs can also serve as tools for volumetric analysis, for site location of towers, or for drainage basin delineation. These data are collected as part of the National Mapping Program."

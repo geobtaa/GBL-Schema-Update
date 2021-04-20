@@ -5,7 +5,7 @@
     "United States. National Oceanic and Atmospheric Administration",
     "Circuit Rider Productions"
   ],
-  "solr_year_i": 2002,
+  "gbl_indexYear_im": 2002,
   "stanford_rights_metadata_s": "<?xml version=\"1.0\"?>\n<rightsMetadata>\n  <access type=\"discover\">\n    <machine>\n      <world/>\n    </machine>\n  </access>\n  <access type=\"read\">\n    <machine>\n      <group>Stanford</group>\n    </machine>\n  </access>\n  <use>\n    <human type=\"useAndReproduction\">These data are licensed by Stanford Libraries and are available to Stanford University affiliates only. Affiliates are limited to current faculty, staff and students. These data may not be reproduced or used for any purpose without permission. For more information please contact brannerlibrary@stanford.edu.</human>\n    <human type=\"creativeCommons\"/>\n    <machine type=\"creativeCommons\"/>\n  </use>\n  <copyright>\n    <human>Copyright ownership resides with the originator.</human>\n  </copyright>\n</rightsMetadata>\n",
   "dct_title_s": "10 Meter Contours: Russian River Basin, California",
   "dct_description_sm": [

@@ -15,7 +15,7 @@
     "Illinois Geospatial Data Clearinghouse"
   ],
   "layer_geom_type_s": "Polygon",
-  "solr_year_i": 1998,
+  "gbl_indexYear_im": 1998,
   "dct_title_s": "Glacial Boundaries: Illinois, 1998",
   "dct_description_sm": [
     "Glacial boundary lines representing the extent of glaciation for major glacial episodes in Illinois. Data originally from Quaternary Deposits in Illinois map by Lineback (1979) and modified according to the reclassification by Hansel and Johnson, ISGS Bulletin 104 (1996). Attribute items include glacial episode identifier. ISGS, 1984 (revised 1998)."

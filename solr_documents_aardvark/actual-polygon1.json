@@ -1,7 +1,7 @@
 {
   "dc_type_s": "Dataset",
   "layer_geom_type_s": "Polygon",
-  "solr_year_i": 2004,
+  "gbl_indexYear_im": 2004,
   "dct_title_s": "100 Foot Grid Cambridge MA 2004",
   "dct_description_sm": [
     "This polygon dataset is a 100 foot grid overlay for Cambridge, MA."

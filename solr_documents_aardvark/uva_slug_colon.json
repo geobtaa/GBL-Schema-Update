@@ -1,7 +1,7 @@
 {
   "georss_polygon_s": "36.82 -76.346 36.971 -76.346 36.971 -76.176 36.82 -76.176 36.82 -76.346",
   "layer_geom_type_s": "MultiPoint",
-  "solr_year_i": 2005,
+  "gbl_indexYear_im": 2005,
   "dct_title_s": "Norfolk 2005 Police Stations",
   "dct_description_sm": [
     "Police stations for Norfolk, Virginia."

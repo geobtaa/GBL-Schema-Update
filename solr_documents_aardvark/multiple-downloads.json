@@ -8,7 +8,7 @@
   "dct_isPartOf_sm": [
     "Agricultural Districts (NYS Ag and Markets)"
   ],
-  "solr_year_i": 2011,
+  "gbl_indexYear_im": 2011,
   "dct_title_s": "Test record with additional download formats",
   "dct_description_sm": [
     "This is a test record containing new-style references as nested child documents.  In addition to the origianl shapefile download, the references section contains additional PDF and KMZ downloads."

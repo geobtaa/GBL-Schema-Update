@@ -8,7 +8,7 @@
   ],
   "dc_type_s": "Dataset",
   "layer_geom_type_s": "Mixed",
-  "solr_year_i": 1972,
+  "gbl_indexYear_im": 1972,
   "dct_title_s": "Agriculture Census: Indiana, 1997",
   "dct_description_sm": [
     "USGS National Atlas metadata states NThis data set portrays the National Agricultural Statistics Service, U.S. Department of Agriculture's 1997 Census data for the United States, presented by county. There are 25 categories of data which include information about farms, crops, livestock, values of products, and farm operator characteristics.N"

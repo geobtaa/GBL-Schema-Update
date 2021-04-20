@@ -7,7 +7,7 @@
   "dc_publisher_sm": [
     "U.S. Geological Survey"
   ],
-  "solr_year_i": 1995,
+  "gbl_indexYear_im": 1995,
   "dct_title_s": "Index of Digital Elevation Models (DEM), New York",
   "dct_description_sm": [
     "This is an index of all the available DEM (digital elevation model) tiles within New York state. Download links are provided for each tile, but this record doesn't include a downloadUrl for the index map itself."
