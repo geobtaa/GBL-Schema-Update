@@ -3,9 +3,9 @@ import csv
 import os
 
 # Manual changes before run
-dir_crosswalk = 'crosswalk.csv'
-dir_old_schema = 'solr_documents_1.0/'
-dir_new_schema = 'solr_documents_updated/'
+dir_crosswalk = 'btaa_crosswalk.csv'
+dir_old_schema = 'btaa_1.0/'
+dir_new_schema = 'btaa_aardvark/'
 
 # Load the crosswalk.csv and make it a ditionary
 # key-value pairs in the dictionary refers to the old-new schemas
