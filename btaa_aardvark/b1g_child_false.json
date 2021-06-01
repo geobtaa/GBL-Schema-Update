@@ -50,13 +50,12 @@
   ],
   "dct_format_s": "Files",
   "gbl_fileSize_s": "7 MB",
-  "gbl_wxsIdentifier_s": "",
   "geomg_id_s": "f397d257-3587-4b8a-ab40-fdd06f865862",
   "dct_identifier_sm": [
     "f397d257-3587-4b8a-ab40-fdd06f865862"
   ],
   "b1g_code_s": "05d-03",
-  "dct_rights_sm": [
+  "dct_license_sm": [
     "https://creativecommons.org/licenses/by/3.0/us/"
   ],
   "dct_accessRights_s": "Public",
