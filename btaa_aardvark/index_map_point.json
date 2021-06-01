@@ -1,33 +1,51 @@
 {
-  "dc_type_s": "Dataset",
-  "dc_publisher_s": "The Publisher",
-  "dc_language_s": "English",
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2021-06-01T16:02:06Z",
   "dct_title_s": "New York Aerial Photos (1960s)",
+  "dct_alternativeTitle_sm": [
+    "index_map_point"
+  ],
   "dct_description_sm": [
+    "GeoJSON index map of points. ",
     "This is a description"
+  ],
+  "dct_language_sm": [
+    "eng"
   ],
   "dct_creator_sm": [
     "Jane Doe"
   ],
-  "schema_provider_s": "Cornell",
-  "gbl_resourceType_sm": [
-    "Point"
+  "dct_publisher_sm": [
+    "The Publisher"
   ],
-  "dct_subject_sm": [
+  "schema_provider_s": "Cornell",
+  "gbl_resourceClass_sm": [
+    "Datasets"
+  ],
+  "gbl_resourceType_sm": [
+    "Point data",
     "Aerial photographs",
     "Index maps"
+  ],
+  "dcat_theme_sm": [
+    "Imagery and Base Maps"
+  ],
+  "dcat_keyword_sm": [
+    "GBL Fixture records",
+    "BTAA Fixture records"
   ],
   "dct_issued_s": "c.1960",
   "dct_spatial_sm": [
     "New York"
   ],
-  "locn_geometry": "ENVELOPE(-74.783, -74.733, 40.20, 40.166)",
-  "dct_accessRights_s": "Public",
+  "locn_geometry": "ENVELOPE(-74.783,-74.733,40.2,40.166)",
   "dct_format_s": "GeoJSON",
-  "dct_references_s": "{\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/OpenIndexMaps/edu.cornell/master/ny-aerial-photos-1960s.geojson\",\"http://schema.org/downloadUrl\":\"https://raw.githubusercontent.com/OpenIndexMaps/edu.cornell/master/ny-aerial-photos-1960s.geojson\"}",
-  "id": "cornell-ny-aerial-photos-1960s",
+  "gbl_wxsIdentifier_s": "",
+  "geomg_id_s": "cornell-ny-aerial-photos-1960s",
   "dct_identifier_sm": [
     "cornell-ny-aerial-photos-1960s"
   ],
-  "gbl_mdVersion_s": "1.0"
+  "dct_accessRights_s": "Public",
+  "b1g_status_s": "Active",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://raw.githubusercontent.com/OpenIndexMaps/edu.cornell/master/ny-aerial-photos-1960s.geojson\",\"https://openindexmaps.org\":\"https://raw.githubusercontent.com/OpenIndexMaps/edu.cornell/master/ny-aerial-photos-1960s.geojson\"}"
 }

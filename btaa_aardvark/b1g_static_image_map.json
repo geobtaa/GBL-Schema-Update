@@ -1,18 +1,15 @@
 {
-  "b1g_code_s": "01d-01",
-  "b1g_geonames_sm": [
-    "http://sws.geonames.org/4921868"
-  ],
-  "b1g_image_ss": "https://purl.dlib.indiana.edu/iudl/images/VAC3073/thumbnail/VAC3073-M-00135",
-  "dc_type_sm": [
-    "Image"
-  ],
+  "gbl_mdVersion_s": "Aardvark",
+  "gbl_mdModified_dt": "2021-06-01T16:02:06Z",
   "dct_title_s": "Areas of sinkholes and sinking-stream basins with locations of cave openings and springs in Central Southern Indiana",
+  "dct_alternativeTitle_sm": [
+    "b1g_static_image_map"
+  ],
   "dct_description_sm": [
     "This map data was compiled in 1997 from information available at the time, but was unpublished until 2002; the map does not reflect any changes in data since 1997.; Includes location map and text. Scale 1:250,000."
   ],
   "dct_language_sm": [
-    "English"
+    "eng"
   ],
   "dct_creator_sm": [
     "Powell,  Richard L., cartographer."
@@ -20,17 +17,15 @@
   "dct_publisher_sm": [
     "Indiana Geological Survey"
   ],
-  "schema_provider_s": "Indiana",
+  "schema_provider_s": "Indiana University",
   "gbl_resourceClass_sm": [
     "Maps"
   ],
   "gbl_resourceType_sm": [
-    "Image"
-  ],
-  "dct_subject_sm": [
     "Geological maps"
   ],
   "dcat_keyword_sm": [
+    "BTAA Fixture records",
     "Geological maps",
     "Sinkholes",
     "Springs",
@@ -42,27 +37,26 @@
   "dct_temporal_sm": [
     "2002"
   ],
-  "gbl_indexYear_im": [
-    2002
+  "b1g_date_range_drsim": [
+    "2002-2002"
   ],
   "dct_spatial_sm": [
-    "Indiana, United States"
+    "Indiana"
   ],
-  "locn_geometry": "ENVELOPE(-87, -85.76, 39.78, 37.96)",
-  "dcat_centroid_ss": "38.87,-86.38",
-  "pcdm_memberOf_sm": [
-    "Indiana Historic Maps"
-  ],
+  "locn_geometry": "ENVELOPE(-87,-85.76,39.78,37.96)",
   "dct_source_sm": [
     "01d-01"
   ],
-  "dct_accessRights_s": "Public",
   "dct_format_s": "JPEG",
-  "dct_references_s": "{\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00135\",\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00135\"}",
-  "id": "828a9dd7-1178-4775-8fb4-ef7c7d3161c9",
+  "gbl_wxsIdentifier_s": "",
+  "geomg_id_s": "828a9dd7-1178-4775-8fb4-ef7c7d3161c9",
   "dct_identifier_sm": [
     "828a9dd7-1178-4775-8fb4-ef7c7d3161c9"
   ],
-  "gbl_mdModified_dt": "2019-01-16T16:38:39Z",
-  "gbl_mdVersion_s": "1.0"
+  "b1g_code_s": "01d-01",
+  "dct_accessRights_s": "Public",
+  "b1g_status_s": "Active",
+  "gbl_suppressed_b": "FALSE",
+  "b1g_child_record_b": "FALSE",
+  "dct_references_s": "{\"http://schema.org/downloadUrl\":\"https://purl.dlib.indiana.edu/iudl/images/VAC3073/full/VAC3073-M-00135\",\"http://schema.org/url\":\"http://purl.dlib.indiana.edu/iudl/images/VAC3073/VAC3073-M-00135\"}"
 }
