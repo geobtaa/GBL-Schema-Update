@@ -53,10 +53,6 @@
   "dct_isPartOf_sm": [
     "f397d257-3587-4b8a-ab40-fdd06f865862"
   ],
-  "dct_source_sm": [
-    ""
-  ],"
-  ],
   "dct_format_s": "Geopackage",
   "gbl_wxsIdentifier_s": "",
   "geomg_id_s": "12580_auto_accessibility_data_2018_geopackage",
@@ -64,7 +60,7 @@
     "12580_auto_accessibility_data_2018_geopackage"
   ],
   "b1g_code_s": "05d-03",
-  "dct_rights_sm": [
+  "dct_license_sm": [
     "https://creativecommons.org/licenses/by/3.0/us/"
   ],
   "dct_accessRights_s": "Public",
